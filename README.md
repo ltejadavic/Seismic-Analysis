@@ -32,14 +32,11 @@ The data was preprocessed to include additional features such as:
 	•	Additional calculations are performed to assess the certainty of each prediction, providing a probability estimate for 
     the accuracy of the latitude, longitude, time, and magnitude predictions.
 
-  Results:
-
-[1m1/1[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 19ms/step
+Results:
 Predicted Latitude: -11.391161918640137
 Predicted Longitude: -77.7036361694336
 Predicted Date and Time of the next event: 2024-12-09 10:26:57.933060
 Predicted Magnitude: 4.835737228393555
-[1m224/224[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m1s[0m 3ms/step
 Predicted Latitude: -11.391161918640137 ± 4.5097002605573815 (Certainty: 77.43%)
 Predicted Longitude: -77.7036361694336 ± 3.3862917397217807 (Certainty: 77.55%)
 Predicted Date and Time of the next event: 2024-12-09 10:26:57.933060 ± 39.29922264497465 hours (Certainty: 96.41%)
